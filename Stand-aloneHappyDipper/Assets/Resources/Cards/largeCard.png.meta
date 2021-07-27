@@ -1,0 +1,1320 @@
+fileFormatVersion: 2
+guid: 685770a9d10e09a439a9065be4daffeb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: BLACK_AA
+  - first:
+      213: 21300002
+    second: BLACK_TEN
+  - first:
+      213: 21300004
+    second: BLACK_JJ
+  - first:
+      213: 21300006
+    second: BLACK_QQ
+  - first:
+      213: 21300008
+    second: BLACK_KK
+  - first:
+      213: 21300010
+    second: BLACK_TWO
+  - first:
+      213: 21300012
+    second: BLACK_THREE
+  - first:
+      213: 21300014
+    second: BLACK_FOUR
+  - first:
+      213: 21300016
+    second: BLACK_FIVE
+  - first:
+      213: 21300018
+    second: BLACK_SIX
+  - first:
+      213: 21300020
+    second: BLACK_SEVEN
+  - first:
+      213: 21300022
+    second: BLACK_EIGHT
+  - first:
+      213: 21300024
+    second: BLACK_NINE
+  - first:
+      213: 21300026
+    second: RED_AA
+  - first:
+      213: 21300028
+    second: RED_TEN
+  - first:
+      213: 21300030
+    second: RED_JJ
+  - first:
+      213: 21300032
+    second: RED_QQ
+  - first:
+      213: 21300034
+    second: RED_KK
+  - first:
+      213: 21300036
+    second: RED_TWO
+  - first:
+      213: 21300038
+    second: RED_THREE
+  - first:
+      213: 21300040
+    second: RED_FOUR
+  - first:
+      213: 21300042
+    second: RED_FIVE
+  - first:
+      213: 21300044
+    second: RED_SIX
+  - first:
+      213: 21300046
+    second: RED_SEVEN
+  - first:
+      213: 21300048
+    second: RED_EIGHT
+  - first:
+      213: 21300050
+    second: RED_NINE
+  - first:
+      213: 21300052
+    second: SPADES
+  - first:
+      213: 21300054
+    second: HEARTS
+  - first:
+      213: 21300056
+    second: CLUBS
+  - first:
+      213: 21300058
+    second: DIAMONDS
+  - first:
+      213: 21300060
+    second: LargeCard_huase_5
+  - first:
+      213: 21300062
+    second: BLACK_BLACKJOKER
+  - first:
+      213: 21300064
+    second: RED_REDJOKER
+  - first:
+      213: 21300066
+    second: BLACK_JOKER
+  - first:
+      213: 21300068
+    second: RED_JOKER
+  - first:
+      213: 21300070
+    second: LargeCard_laizi_shuzi_1
+  - first:
+      213: 21300072
+    second: LargeCard_laizi_shuzi_10
+  - first:
+      213: 21300074
+    second: LargeCard_laizi_shuzi_11
+  - first:
+      213: 21300076
+    second: LargeCard_laizi_shuzi_12
+  - first:
+      213: 21300078
+    second: LargeCard_laizi_shuzi_13
+  - first:
+      213: 21300080
+    second: LargeCard_laizi_shuzi_2
+  - first:
+      213: 21300082
+    second: LargeCard_laizi_shuzi_3
+  - first:
+      213: 21300084
+    second: LargeCard_laizi_shuzi_4
+  - first:
+      213: 21300086
+    second: LargeCard_laizi_shuzi_5
+  - first:
+      213: 21300088
+    second: LargeCard_laizi_shuzi_6
+  - first:
+      213: 21300090
+    second: LargeCard_laizi_shuzi_7
+  - first:
+      213: 21300092
+    second: LargeCard_laizi_shuzi_8
+  - first:
+      213: 21300094
+    second: LargeCard_laizi_shuzi_9
+  - first:
+      213: 21300096
+    second: large_card_anti
+  - first:
+      213: 21300098
+    second: large_card_bgx
+  - first:
+      213: 21300100
+    second: large_card_mengban
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BLACK_AA
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 128
+        width: 42
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3550f26a5e4413b439d4ea5a7a248daf
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BLACK_TEN
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 176
+        width: 42
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdea8653e4837534cbb05e32fd8ec23f
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BLACK_JJ
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 224
+        width: 42
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbab83c286b805141b24b386ee042a43
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BLACK_QQ
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 272
+        width: 42
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 353182265d6822a42ad41b40d3a107c9
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BLACK_KK
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 368
+        width: 42
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14ef3fc9cf7c4a34b931369f7b353695
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BLACK_TWO
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 416
+        width: 42
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7343a41585977934fa6b3ab105c07d62
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BLACK_THREE
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 464
+        width: 42
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcdb5cf09846beb47a94f6dfa7cd5461
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BLACK_FOUR
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 320
+        width: 42
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06d0aec3c5142d748aacfd71192b0ae8
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BLACK_FIVE
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 367
+        width: 42
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d48e7b2b180857546969ea6064275bcf
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BLACK_SIX
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 416
+        width: 42
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d2dc4ab5b20c1642a4dd2a6051774d7
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BLACK_SEVEN
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 464
+        width: 42
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40eec45de1b8d4e439eff0e51570375f
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BLACK_EIGHT
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 20
+        width: 42
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47b866f6e5ba8c54a893f37da0a36578
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BLACK_NINE
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 68
+        width: 42
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a6abb8abeece604383093410a10f544
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RED_AA
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 116
+        width: 42
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40bcf76fc92db0b4181e87b42631be9a
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RED_TEN
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 164
+        width: 42
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2af978edffc3858468232b89a0381479
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RED_JJ
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 82
+        width: 40
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 213c081da0ec6b440843a1a16b93ebbf
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RED_QQ
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 212
+        width: 42
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b250c58ad9575f48a7bd0b91b7c03dc
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RED_KK
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 260
+        width: 42
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbee21ef52a5acb4ea5fb8b5ba18b8c1
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RED_TWO
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 308
+        width: 42
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e1beef0845cc124a8020f4d5e601f5d
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RED_THREE
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 14
+        width: 42
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 025302f7b26672e4dabb0efb75cdb9e8
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RED_FOUR
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 62
+        width: 42
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7a3ab8142ddf19438e947ea872c6b30
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RED_FIVE
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 110
+        width: 42
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f28a59b0d83e96249845c311fa77be4f
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RED_SIX
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 14
+        width: 42
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb8f25560483cfe47a0b4055c429b907
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RED_SEVEN
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 62
+        width: 42
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4b0580aa053d4a448fd69afc1f5a533
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RED_EIGHT
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 110
+        width: 42
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74d891fe7512bd74aba2dc340ca64c03
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RED_NINE
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 14
+        width: 42
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54d95fb19016cba4b9596ed3fc3ff75b
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPADES
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 7
+        width: 40
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2e8529037d74d5439aefd803067cf95
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HEARTS
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 7
+        width: 40
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92b1992291bccf4448a5f17c1b836267
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CLUBS
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 7
+        width: 40
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76bccc0b28cc7774781c48073649e078
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DIAMONDS
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 7
+        width: 40
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1949ecd7666de7248aab03289f1a0e88
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LargeCard_huase_5
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 7
+        width: 40
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c0f40c6b979ce14792cb16d6d6e64b5
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BLACK_BLACKJOKER
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 356
+        width: 22
+        height: 154
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87408523c929a7b4fa2f6e68a00af2e1
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RED_REDJOKER
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 356
+        width: 22
+        height: 154
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4cbba7dbc230c8419431a72af598b74
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BLACK_JOKER
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 158
+        width: 92
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f9346e05a1e09a4192e695e37ef33f1
+      internalID: 21300066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RED_JOKER
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 158
+        width: 92
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2612c238b7e6665459997a8ef51dc024
+      internalID: 21300068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LargeCard_laizi_shuzi_1
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 62
+        width: 42
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 062608b1b4bbac64da5d015f1fb2b378
+      internalID: 21300070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LargeCard_laizi_shuzi_10
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 110
+        width: 42
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8af8febaf1214c44485d8ea9772a7ace
+      internalID: 21300072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LargeCard_laizi_shuzi_11
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 14
+        width: 42
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5969254590d7784686ff053471a69c5
+      internalID: 21300074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LargeCard_laizi_shuzi_12
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 62
+        width: 42
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0fc69483adacad4396981fe035a9357
+      internalID: 21300076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LargeCard_laizi_shuzi_13
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 110
+        width: 42
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc52602525249204cb88f84488e72085
+      internalID: 21300078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LargeCard_laizi_shuzi_2
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 40
+        width: 42
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f51d75f33e35fb24e8ba246ffb2d29cf
+      internalID: 21300080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LargeCard_laizi_shuzi_3
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 88
+        width: 42
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 316e736682bd97e48b4c02e39c8b0cb3
+      internalID: 21300082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LargeCard_laizi_shuzi_4
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 40
+        width: 42
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ed5bc77aba237347926826cf67f0734
+      internalID: 21300084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LargeCard_laizi_shuzi_5
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 88
+        width: 42
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7df27985517f9d240a4969373add0bfe
+      internalID: 21300086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LargeCard_laizi_shuzi_6
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 40
+        width: 42
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b499112f6f3b6584cbf9281318afc24b
+      internalID: 21300088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LargeCard_laizi_shuzi_7
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 88
+        width: 42
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f7313be5d68bef4294fb0ba0e365f19
+      internalID: 21300090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LargeCard_laizi_shuzi_8
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 40
+        width: 42
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2e39a41d811e4242b79cfe8015a59c9
+      internalID: 21300092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LargeCard_laizi_shuzi_9
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 88
+        width: 42
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2791c0277752f6145b92874140ee41ca
+      internalID: 21300094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: large_card_anti
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 324
+        width: 142
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd9557eccc3e91d4a99fe93dc61f8375
+      internalID: 21300096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: large_card_bgx
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 136
+        width: 142
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f82dcc8c28401004f89ddfe3f041251f
+      internalID: 21300098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: large_card_mengban
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 324
+        width: 142
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05bcc161f2514df478e0a30d2bfbf31e
+      internalID: 21300100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 1ad0489130ee8df4ca9558db87621135
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
